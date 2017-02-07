@@ -1,0 +1,36 @@
+<resources>
+    <string name="kakao_app_key">b0274bd779bc4ef3b92f-3ea4c81ea83e</string>
+    <string name="google_map_key">AIzaSyB2uOqLLcfLc0zbPx-OzQ2T28M5Nxio9dk</string>
+
+    <string name="app_name">FindDrive</string>
+    <string name="viewlist">주행리스트보기</string>
+    <string name="managelist">"경로등록 및 편집"</string>
+    <string name="exit">"종료하기"</string>
+
+    <string name="addlist">"경로추가"</string>
+    <string name="selectlist">"경로선택"</string>
+
+    <string name="listname">"경로리스트이름"</string>
+    <string name="adddest">"목적지추가"</string>
+    <string name="register">"등록"</string>
+    <string name="cancel">"취소"</string>
+
+    <string name="destlist">"목적지리스트"</string>
+
+    <string name="destname">"목적지이름"</string>
+    <string name="destaddr">"목적지주소"</string>
+    <string name="destlat">"목적지위도"</string>
+    <string name="destlgt">"목적지경도"</string>
+    <string name="getlatlgt">"위경도얻어오기"</string>
+
+    <string name="drivestart">"시작하기"</string>
+    <string name="drivenext">"다음목적지"</string>
+    <string name="drivefinish">"목적지종료"</string>
+    <string name="selectdest">"목적지선택"</string>
+    <string name="viewmap">"지도보기"</string>
+
+    <string name="activitynotfound">"화면을 찾을 수 없습니다."</string>
+    <string name="inputalldata">"모든 항목을 입력하세요."</string>
+    <string name="cannotfindaddress">"주소를 찾을 수 없습니다."</string>
+    <string name="updated">"업데이트가 완료되었습니다."</string>
+</resources>
